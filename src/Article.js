@@ -5,6 +5,7 @@ const Article = ({title, snippet, data, length}) => {
     <h2>{title}</h2>
     <div className="post-info">
       <span>date</span>
+      <span>{length}</span>
     </div>
   </article>
 }
