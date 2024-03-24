@@ -5,7 +5,9 @@ import Article from './Article'
 function App() {
   return <main>
     <nav>
-      
+      <div className="nav-center">
+        
+      </div>
     </nav>
   </main>
 }
