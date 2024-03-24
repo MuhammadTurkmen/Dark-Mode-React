@@ -6,7 +6,7 @@ function App() {
   return <main>
     <nav>
       <div className="nav-center">
-        
+        <h1>overreacted</h1>
       </div>
     </nav>
   </main>
