@@ -10,6 +10,10 @@ Global Styles
   --clr-primary: #d23669;
 }
 
+.dark-them {
+  
+}
+
 *,
 ::after,
 ::before {
