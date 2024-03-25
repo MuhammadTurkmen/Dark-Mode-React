@@ -6,7 +6,9 @@ function App() {
   const [theme, setTheme] = useState('light-theme')
 
   const toggleTheme = () => {
-
+    if(theme === 'light-theme') {
+      
+    }
   }
  
   useEffect(() => {
