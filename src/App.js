@@ -6,8 +6,8 @@ function App() {
   const [theme, setTheme] = useState('light-theme')
 
   useEffect(() => {
-    
-  })
+
+  }, [theme])
   
   return <main>
     <nav>
